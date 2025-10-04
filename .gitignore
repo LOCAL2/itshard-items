@@ -102,6 +102,13 @@ Thumbs.db
 # Ignore all SQL files
 *.sql
 
+# Ignore all TXT files
+*.txt
+
+# Ignore all CSV files
+*.csv
+
+# Ignore all JSON files
 
 # TypeScript
 *.tsbuildinfo
