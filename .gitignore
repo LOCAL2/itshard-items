@@ -96,5 +96,12 @@ Thumbs.db
 # Vite
 .vite/
 
+# Ignore all markdown files
+*.md
+
+# Ignore all SQL files
+*.sql
+
+
 # TypeScript
 *.tsbuildinfo
