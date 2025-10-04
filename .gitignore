@@ -7,9 +7,15 @@ node_modules/
 dist/
 build/
 
+
+# Ignore all env files
+.env*
+
+
+.env.discord.example
+
 # Environment variables
 .env
-.env.*
 .env.local
 .env.development.local
 .env.test.local
